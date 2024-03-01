@@ -2,4 +2,4 @@
 *.jpg
 dist/
 build/
-*yt5.egg-info
+*.egg-info
