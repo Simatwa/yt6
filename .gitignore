@@ -1,0 +1,5 @@
+*__pycache__
+*.jpg
+*dist
+*build
+*yt5.egg-info
