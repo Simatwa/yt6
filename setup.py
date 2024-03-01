@@ -1,9 +1,9 @@
 from setuptools import setup
-from yt5 import __version__, __author__, __repo__, __info__
+from yt6 import __version__, __author__, __repo__, __info__
 
 setup(
-    name="yt5",
-    packages=["yt5"],
+    name="yt6",
+    packages=["yt6"],
     version=__version__,
     license="MIT",
     author=__author__,
@@ -15,7 +15,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         "colorama==0.4.6",
-        "pytube==12.1.2",
+        "pytube>=15.0.0",
         "tabulate==0.9.0",
     ],
     long_description=open("docs/README.md").read(),
@@ -36,10 +36,10 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
     ],
-    keywords = ['yt5','youtubedl','youtube','downloader','video-downloader'],
+    keywords = ['yt5','yt6','youtubedl','youtube','downloader','video-downloader'],
     entry_points={
         "console_scripts": [
-            ("yt5 = yt5.yt5:launch"),
+            ("yt6 = yt6.yt6:launch"),
         ]
     },
 )

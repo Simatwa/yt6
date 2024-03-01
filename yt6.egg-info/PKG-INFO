@@ -1,3 +1,33 @@
+Metadata-Version: 2.1
+Name: yt6
+Version: 1.5.4
+Summary: Download audio and video from YouTube.
+Home-page: https://github.com/Simatwa/yt6
+Author: Smartwa Caleb
+Author-email: smartwacaleb@gmail.com
+Maintainer: Smartwa Caleb
+License: MIT
+Project-URL: Bug Report, https://github.com/Simatwa/yt6/issues/new
+Keywords: yt5,yt6,youtubedl,youtube,downloader,video-downloader
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: Free For Home Use
+Classifier: Topic :: Home Automation
+Classifier: Intended Audience :: Customer Service
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 <p align="center">
 <a href="https://github.com/Simatwa/yt5"><img src="https://img.shields.io/static/v1?logo=github&color=blueviolet&label=Test&message=Passing"/></a>
 <a href='https://pypi.org/project/yt5'><img src='https://img.shields.io/static/v1?logo=pypi&color=yellow&label=Pypi&message=v1.5.3' alt='Pypi'/></a>
@@ -8,10 +38,6 @@
 <a href='https://pepy.tech/project/yt5'><img src='https://static.pepy.tech/badge/yt5' alt='Downloads'/></a>
 <a href="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d/project/9681babc-aedd-4a02-ae7c-f91f914ad9b3"><img src="https://wakatime.com/badge/user/321c8a21-57bc-4782-bb00-8733ff579c0d/project/9681babc-aedd-4a02-ae7c-f91f914ad9b3.svg" alt="wakatime"/></a>
 </p>
-
-> [!IMPORTANT]
-> This is just but a maintained [yt5](https://github.com/Simatwa/yt5).
-> So wherever there's yt5 just know I'm referring to **yt6**.
 
 ```
                                                                    
