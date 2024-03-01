@@ -18,7 +18,7 @@ setup(
         "pytube>=15.0.0",
         "tabulate==0.9.0",
     ],
-    long_description=open("docs/README.md").read(),
+    long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     classifiers=[
         "License :: OSI Approved :: MIT License",
