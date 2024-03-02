@@ -43,6 +43,11 @@ yyyyyyy           yyyyyyyttttttt:::::ttttttt    5:::::5
 - **yt5** is a [Python](https://python.org) script that downloads [YouTube](https://www.youtube.com) ***Videos*** & ***audios*** at `console` environment.
 
 ## Installation ##
+
+Download binaries for your system from [here](https://github.com/Simatwa/yt6/releases/latest) .
+
+**OR** :
+
 - From Github - *source*
 
 ```
